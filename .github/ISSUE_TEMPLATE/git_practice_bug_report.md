@@ -1,8 +1,8 @@
 ---
 name: BUG
-about: 발생한 버그 관련 이슈를 작성해 주세요..!
+about: 발생한 버그 관련 이슈를 작성해 주세요!
 title: ""
-about: ''
+labels: ''
 assignees: ''
 ---
 
